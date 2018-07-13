@@ -35,3 +35,36 @@ textarea {
   padding: 10px;
   text-align: left;
 }
+
+pre {
+  background-color: #eee;
+  color: black;
+  padding: 5px 10px;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+blockquote {
+  background-color: #eee;
+  margin-left: 20px;
+}
+
+blockquote>p {
+  padding: 10px 4px;
+  vertical-align: middle;
+  margin-left: 10px;
+  font-weight: 700;
+  font-style: italic;
+}
+
+table, tr, th, td {
+  border: 1px solid grey;
+}
+
+th, td {
+  padding: 4px;
+}
+
+table {
+  margin-bottom: 20px;
+}
