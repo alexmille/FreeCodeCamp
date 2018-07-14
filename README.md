@@ -8,19 +8,18 @@ The program covers 6 different topics:
 1. Bootstrap
 2. jQuery
 3. Sass
-4. [React](https://github.com/alexmille/FreeCodeCamp/tree/master/Front%20End%20Libraries%20Certification/4-React)
+4. React ([link](https://github.com/alexmille/FreeCodeCamp/tree/master/Front%20End%20Libraries%20Certification/4-React))
 5. Redux
 6. React & Redux
 
-I'll start with React because I already did Bootstrap & jQuery a few months (or years?) ago.
+I'll start with React because I've already completed the Bootstrap & jQuery courses a few months (or years?) ago.
 ## Projects
 In order to get the certification, 5 different projects must be done:
 
-| Project | Status | Result |
-|:--------|:------:|:------:|
-|Random Quote Machine | To do | - |
-|Markdown Previewer | Done | [Link](https://codesandbox.io/s/84jmkx5ywj) |
-|Drum Machine | To do | - |
-|JavaScript Calculator | To do | - |
-|Pomodoro Clock | To Do | - |
-
+| Project | Status | Code   | Result |
+|:--------|:------:|:------:|:------:|
+|Random Quote Machine | To do | - | - |
+|Markdown Previewer | Done | [Github](https://github.com/alexmille/FreeCodeCamp/tree/master/Front%20End%20Libraries%20Certification/7-Front-End-Libraries-Projects/2-markdown-previewer) | [SandBox.io](https://codesandbox.io/s/84jmkx5ywj) |
+|Drum Machine | To do | - | - |
+|JavaScript Calculator | To do | - | - |
+|Pomodoro Clock | To Do | - | - |
