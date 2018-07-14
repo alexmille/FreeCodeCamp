@@ -15,8 +15,9 @@ The program covers 6 different topics:
 I'll start with React because I already did Bootstrap & jQuery a few months (or years?) ago.
 ## Projects
 In order to get the certification, 5 different projects must be done:
+
 | Project | Status | Result |
-|---------|--------|--------|
+|:--------|:------:|:------:|
 |Random Quote Machine | To do | - |
 |Markdown Previewer | Done | [Link](https://codesandbox.io/s/84jmkx5ywj) |
 |Drum Machine | To do | - |
