@@ -18,8 +18,8 @@ In order to get the certification, 5 different projects must be done:
 
 | Project | Status | Code   | Result |
 |:--------|:------:|:------:|:------:|
-|Random Quote Machine | To do | - | - |
-|Markdown Previewer | Done | [Github](https://github.com/alexmille/FreeCodeCamp/tree/master/Front%20End%20Libraries%20Certification/7-Front-End-Libraries-Projects/2-markdown-previewer) | [SandBox.io](https://codesandbox.io/s/84jmkx5ywj) |
+|Random Quote Machine | Done | [Github](https://github.com/alexmille/FreeCodeCamp/tree/master/Front%20End%20Libraries%20Certification/7-Front-End-Libraries-Projects/1-random-quote-machine) | [CodeSandBox.io](https://codesandbox.io/s/5zljl3wqq4) |
+|Markdown Previewer | Done | [Github](https://github.com/alexmille/FreeCodeCamp/tree/master/Front%20End%20Libraries%20Certification/7-Front-End-Libraries-Projects/2-markdown-previewer) | [CodeSandBox.io](https://codesandbox.io/s/84jmkx5ywj) |
 |Drum Machine | To do | - | - |
 |JavaScript Calculator | To do | - | - |
 |Pomodoro Clock | To Do | - | - |
