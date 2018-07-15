@@ -33,3 +33,7 @@
   width: 28rem;
   margin: 0 auto;
 }
+
+button, a {
+  margin: 10px;
+}

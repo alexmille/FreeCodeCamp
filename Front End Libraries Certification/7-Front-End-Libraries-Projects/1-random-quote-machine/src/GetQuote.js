@@ -28,20 +28,25 @@ class GetQuote extends Component {
       movieCharacter : character,
     });
     console.log("This:", this);
-
     console.log("randomQuote variable", (randomQuote));
     console.log("data[randomQuote].character variable", data[randomQuote].Character)
     console.log("data[randomQuote].quote variable", data[randomQuote].Quote)
+  }
 
+  tweetUrl() {
+    return <p>yo</p>
   }
 
   render() {
+    let twitterUrl = 'https://twitter.com/intent/tweet?hashtags=randomQuotes&related=starwars&text=' + this.state.movieQuote + " - " + this.state.movieCharacter;
+
     return(
       <div className="card">
         <h4 className="card-header">{this.state.movieCharacter}</h4>
         <div className="card-body">
           <p className="card-text"><i>{this.state.movieQuote}</i></p>
-          <button className="btn btn-primary" onClick={this.newQuote}>Get another quote</button>
+          <button className="btn btn-primary" onClick={this.newQuote}>Get another quote</button>or 
+          <a className="btn btn-primary" href={twitterUrl}>Tweet this</a>
         </div>
 
       {console.log(this.state)}

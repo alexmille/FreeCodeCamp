@@ -14,11 +14,6 @@ class App extends Component {
         <div className="App-intro">
           <br />
           <br />
-          <div className="container">
-
-            
-            <br /> <br />
-          </div>
           <GetQuote />
         </div>
       </div>
