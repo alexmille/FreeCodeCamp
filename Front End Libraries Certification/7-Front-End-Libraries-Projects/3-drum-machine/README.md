@@ -5,11 +5,9 @@ Build a drum machine ([similar to this one](https://codepen.io/freeCodeCamp/full
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ![react](https://img.shields.io/badge/react-16.4.1-blue.svg)
-![react-bootstrap](https://img.shields.io/badge/react--bootstrap-0.32.1-blue.svg)
 
 
-### Dependencies
-- React Bootstrap
+![image](https://alexandre-mille.com/images/FreeCodeCamp/FrontEndCertif/3-drum-machine.png)
 
 -----
 
