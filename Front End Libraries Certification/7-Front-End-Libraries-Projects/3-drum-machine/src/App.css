@@ -1,0 +1,124 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  margin-top: 70px;
+  height: 80px;
+}
+body {
+  background-color: rgb(158, 158, 158);
+}
+
+.App-header {
+  height: 100px;
+  padding-top: 60px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+#drum-machine {
+  margin: 0 auto;
+  margin-top: 40px;
+  width: 600px;
+  height: 400px;
+  background-color: #282c2d;
+  border-left-width: 30px;
+  border-right-width: 30px;
+  border-style: solid;
+  border-image: url(./images/wood-left.png) 0% 100% stretch;
+}
+
+.drum-logo-title {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  color: #db8a00;
+  text-shadow: 2px 2px #634005;
+  margin-top: 20px; 
+}
+
+.drum-logo-big {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  color: #db8a00;
+  margin-top: 20px;
+}
+
+.drum-logo-small {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  color: #db8a00;
+  margin-top: 6px;
+}
+
+.left-col {
+  width: 200px;
+  height: 400px;
+  float: left;
+}
+
+.right-col {
+  width: 340px;
+  margin-left: 30px;
+  margin-top: 50px;
+  float: left;
+}
+
+#display {
+  font-family: 'Inconsolata', monospace;
+  width: 140px;
+  height: 60px;
+  margin: 0 auto;
+  margin-top: 20px;
+  background-color: #1a9bfc;
+  border: 1px solid #67b5f1;
+  border-radius: 7px;
+  color: #bfd4ff;
+  padding: 5px;
+  padding-top: 20px;
+  text-align: left;
+}
+
+.display-text {
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.pad {
+  float: left;
+  margin: 10px;
+  width: 80px;
+  height: 80px;
+  border: 1px solid #b7e7fa;
+  border-radius: 3px;
+  line-height: 80px;
+  font-family: 'Orbitron', sans-serif;
+  font-weight: bold;
+  background-color: #abacae;
+}
+
+footer.footer {
+  height: 40px;
+  line-height: 40px;
+  margin-top: 80px;
+  color: #474747;
+}
+
+a {
+  color: #474747;
+}
